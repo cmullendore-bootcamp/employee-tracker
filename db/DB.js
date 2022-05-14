@@ -19,7 +19,7 @@ class DB {
     }
 
     Initialize() {
-        Initializer.Initialize(this.Get());
+        Initializer.Initialize(this);
     }
 }
 
