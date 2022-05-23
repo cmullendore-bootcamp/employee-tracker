@@ -17,7 +17,7 @@
 This application allows someone to manage departments, roles, and employees within a company. 
 
 ## Usage
-In a command prompt from the location of the files, simply run "node app.js" and the application should run. A video demonstration is [available here](https://1drv.ms/v/s!AvOM1kJNe-zxip9nS5jblNRXBAMENA?e=HGC0C5).
+In a command prompt from the location of the files, simply run "node app.js" and the application should run. A video demonstration is [available here](https://1drv.ms/u/s!AvOM1kJNe-zxiqBuyp94tDFUZBTbNA?e=Nir8cR).
 
 ## Contributing
 At this point in time we are not accepting outside contributions, but watch this space for changes soon!
